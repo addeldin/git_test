@@ -1,0 +1,1 @@
+This is Addie's first (kinda sorta second tbh) git project.
